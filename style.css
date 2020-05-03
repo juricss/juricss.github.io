@@ -1,0 +1,61 @@
+.main {
+  background-image: url(pink-broad-petaled-flower-1245437.jpg);
+  background-size: cover;
+  width: 1100px;
+  height: 675px;
+  padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  padding-bottom: 0;
+  padding-top: 5px;
+  margin-top: 0;
+  color: #e7d4c5;
+}
+.part:after {
+  display: table;
+  clear: both;
+}
+.poem {
+  font-size: 20px;
+  font-weight: bold;
+  color: #e7d4c5;
+  font-family: 'Amatic SC', cursive;
+  width: 30%;
+  margin-left: 50px;
+}
+.part {
+  float: left;
+  width: 50%;
+}
+.kk {
+    width: 300px;
+    height: 280px;
+    top: 47%;
+    left: 73%;
+    margin: 0;
+    text-align: center;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+#kincs {
+    font-family: 'Amatic SC', cursive;
+    color: #e7d4c5;
+    font-weight: bold;
+}
+img {
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+}
+.maskbox {
+    width: 120%;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    margin: 0;
+    transform: translate(-50%, -50%);
+}
